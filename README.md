@@ -22,9 +22,8 @@
 
 ### my social networks
 
-[![Telegram](https://img.shields.io/badge/@eco1kd-181717?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/eco1kd)
+[![Telegram](https://img.shields.io/badge/@eco3kd-181717?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/eco3kd)
 [![Discord](https://img.shields.io/badge/Discord-181717?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1410030335844155423)
-[![TikTok](https://img.shields.io/badge/@zoros.n1-181717?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@zoros.n1)
 
 <br><br>
 
