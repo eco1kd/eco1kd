@@ -25,8 +25,4 @@
 [![Telegram](https://img.shields.io/badge/@eco3kd-181717?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/eco3kd)
 [![Discord](https://img.shields.io/badge/Discord-181717?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1410030335844155423)
 
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=8B949E&center=true&vCenter=true&width=800&repeat=false&lines=Hello%2C+friend.+Hello%2C+friend%3F+That's+lame.+Maybe+I+should+give+you+a+name%3F" />
-
 </div>
