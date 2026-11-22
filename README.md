@@ -14,7 +14,7 @@
 
 ### languages
 
-![eco1kd](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eco1kd&layout=compact&langs_count=8&theme=nightowl)
+![eco1kd](https://github-readme-stats.vercel.app/api/top-langs/?username=eco1kd&layout=compact&theme=vision-friendly-dark)
 
 <br><br>
 
